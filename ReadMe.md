@@ -1,26 +1,23 @@
 # Hey Welcome Buddy 👋
 
-### This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+
+## Project Name : **Busisness Landing Page !**
+
+In this project i have created a Busisness landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅. 
 
 </br>
 
-## Name of Project : **Busisness Landing Page !**
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 </br>
-</br>
 
-> In this is Project Basically i learnt about flexbox that where and how to use flexbox in our Web Project. And i also get to know that we can not make a fancy or modern looking website without using flexbox as per my experience.
+### My Project is looking like :
 
-</br>
-</br>
+![Web Site Image](./Assets/complete%20SS.png)
 
-### This is How My Project is looking on Desktop.
+### You can Check it Live on Below Link :
 
-</br>
-</br>
-
-![Image](./Assets/preview.png)
-
-Your Can Check it live on below link :
-
-[Busisness Landing Page ](https://busisness-landing-page.netlify.app/ "Busisness Landing Page By Rohit Madeshiya")
+[My Portfolio Website !](https://busisness-landing-page.netlify.app/)
