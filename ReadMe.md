@@ -20,4 +20,4 @@ In this project i have created a Busisness landing page from scratch. And i have
 
 ### You can Check it Live on Below Link :
 
-[My Portfolio Website !](https://busisness-landing-page.netlify.app/)
+[Live Link !](https://busisness-landing-page.netlify.app/)
